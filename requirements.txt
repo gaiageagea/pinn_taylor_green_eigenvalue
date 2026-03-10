@@ -1,0 +1,15 @@
+# Core deep learning
+torch
+torchvision
+torchaudio
+
+# Scientific Python
+numpy<2.0
+scipy
+
+# Plotting (optional, for visualization/debugging)
+matplotlib
+
+# Jupyter (optional, for running interactively)
+jupyter
+notebook
