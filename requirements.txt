@@ -1,15 +1,11 @@
-# Core deep learning
-torch
-torchvision
-torchaudio
+# Deep learning
+torch==2.5.1
+torchvision==0.20.1
+torchaudio==2.5.1
 
 # Scientific Python
-numpy<2.0
-scipy
+numpy==1.26.4
+scipy==1.16.2
 
-# Plotting (optional, for visualization/debugging)
-matplotlib
-
-# Jupyter (optional, for running interactively)
-jupyter
-notebook
+# Visualisation
+matplotlib==3.10.6
